@@ -1,0 +1,15 @@
+{
+  "name": "inview-test",
+  "version": "1.0.0",
+  "description": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MURAOKA Taro",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
